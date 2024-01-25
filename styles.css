@@ -1,0 +1,14 @@
+table, th, td{
+    border: 1px solid black;
+}
+body{ 
+    background-image: url(https://krmiller.com/wp-content/uploads/2022/05/John-Hancock-HS_17.jpg)
+    ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table{
+    background-color: aliceblue;
+}
